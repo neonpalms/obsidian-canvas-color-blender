@@ -1,0 +1,3 @@
+[submodule "types"]
+	path = types
+	url = https://github.com/obsidianmd/obsidian-api.git
