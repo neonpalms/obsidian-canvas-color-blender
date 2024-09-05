@@ -1,3 +1,6 @@
 [submodule "types"]
 	path = types
 	url = https://github.com/obsidianmd/obsidian-api.git
+[submodule "events"]
+	path = events
+	url = https://github.com/neonpalms/obsidian-canvas-event-patcher.git
