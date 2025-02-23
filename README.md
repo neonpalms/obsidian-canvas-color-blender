@@ -10,7 +10,7 @@ This plugin automatically adjusts the color of "blank" nodes based on the colors
 
 ### Example
 
-![Canvas Color Blender Example](img/example.png)
+![Canvas Color Blender Example](example.png)
 
 ## Installation
 
