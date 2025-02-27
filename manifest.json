@@ -2,7 +2,7 @@
 	"id": "obsidian-canvas-color-blender",
 	"name": "Canvas Color Blender",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
+	"minAppVersion": "1.1.0",
 	"description": "Blends together the colors of connected cards in your Obsidian Canvas.",
 	"author": "Joshua Eslinger",
 	"isDesktopOnly": false
